@@ -16,9 +16,9 @@ int main() {
 			}
 		}
 		if(dem == 1) {
-			printf("%d la so nguyen to.\n", n);
+			printf("%d la so nguyen to\n", n);
 		} else {
-			printf("%d khong la so nguyen to.\n", n);
+			printf("%d khong la so nguyen to\n", n);
 		}
 		
 	}
